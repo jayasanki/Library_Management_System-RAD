@@ -73,4 +73,3 @@ This application is designed specifically for **library staff**, ensuring secure
 
 ---
 
-## 📦 Project Structure (High-Level)
